@@ -13,9 +13,7 @@ Here you'll find my private projects, mostly robotics and 3D printing, and some 
   robotic hands. Dynamixel servo control, WiLoR hand tracking teleoperation, ArUco vision, and Claude driving the hand via MCP.
 * **[handlab hardware](https://github.com/michiqn/handlab-hardware)**: The 3 and 4 finger tendon driven hands:
   CAD, photos, build notes.
-* **[KraQn](https://github.com/michiqn/KraQn)**: My first robotics project. A two tendon logarithmic spiral arm
-  inspired by SpiRobs, with my own body, base and electronics.
-
+  
 ### 🛠️ Embedded & iOS
 * **[TrainBrain](https://github.com/michiqn/trainbrain)**: A small e ink display with a rotary knob, controlled
   from my iPhone over Bluetooth LE. Used as a workout counter and vocabulary quiz.
